@@ -21,7 +21,7 @@ This Python script automates the creation of IT support tickets from Reddit post
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/home-it-ticketing-system.git
+   git clone https://github.com/davidinfosec/home-it-ticketing-system.git
    ```
 
 2. Navigate to the cloned directory:
@@ -41,14 +41,14 @@ This Python script automates the creation of IT support tickets from Reddit post
 To run the script, navigate to the script's directory and execute the following command:
 
 ```
-python ticketrss2.py
+python reddit2ticket.py
 ```
 
 The script will automatically fetch posts from the /r/techsupport subreddit RSS feed, create tickets for each post, and print the status of each ticket creation attempt to the console.
 
 ## Configuration
 
-Before using the script, you must configure the following variables in the `ticketrss2.py` file:
+Before using the script, you must configure the following variables in the `reddit2ticket.py` file:
 
 - `RSS_FEED_URL`: The URL of the RSS feed for the /r/techsupport subreddit.
 - `TICKET_CREATION_URL`: The endpoint URL for creating tickets in your ticketing system.
