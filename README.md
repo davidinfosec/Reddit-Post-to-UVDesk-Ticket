@@ -1,6 +1,6 @@
 # Home IT Ticketing System using Reddit posts
 
-This Python script automates the creation of IT support tickets from Reddit posts in the /r/techsupport subreddit. It fetches posts from a specified RSS feed and creates tickets for each post in an external ticketing system.
+This Python script automates the creation of IT support tickets from Reddit posts in the /r/techsupport subreddit. It fetches posts from a specified RSS feed and creates tickets for each post in an external ticketing system, UVDesk.
 
 ## Features
 
