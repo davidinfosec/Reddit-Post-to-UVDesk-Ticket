@@ -2,6 +2,8 @@
 
 This Python script automates the creation of IT support tickets from Reddit posts in the /r/techsupport subreddit. It fetches posts from a specified RSS feed and creates tickets for each post in an external ticketing system, UVDesk.
 
+There's some quirks with this - I want to be able to run the script and only add new, not duplicates -- but, this is an ongoing project. Feel free to contribute.
+
 Check out the full blog post here: https://davidinfosec.com/2024/03/home-it-support-ticketing-system-revisited/
 
 ## Features
