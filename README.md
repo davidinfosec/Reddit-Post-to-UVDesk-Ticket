@@ -8,6 +8,8 @@ This Python script automates the creation of IT support tickets from Reddit post
 - Creates tickets in an external ticketing system using post details.
 - Handles missing `author` attributes gracefully.
 - Detailed logging for troubleshooting ticket creation issues.
+![firefox_JjrShJmLqB](https://github.com/davidinfosec/Reddit-Post-to-UVDesk-Ticket/assets/87215831/64c67a93-1287-4bd9-9e62-89c528523d0b)
+![firefox_p4Mj3wOzWO](https://github.com/davidinfosec/Reddit-Post-to-UVDesk-Ticket/assets/87215831/7c83f424-3da1-46c2-af04-99ca7f330c55)
 
 ## Installation
 
